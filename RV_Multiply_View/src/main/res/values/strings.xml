@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Pruebas</string>
+    <string name="borrar">Borrar</string>
+    <string name="editar">Editar</string>
 </resources>
