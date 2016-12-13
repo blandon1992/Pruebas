@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Pruebas.iml" filepath="$PROJECT_DIR$/Pruebas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RV_Multiply_View/RV_Multiply_View.iml" filepath="$PROJECT_DIR$/RV_Multiply_View/RV_Multiply_View.iml" />
       <module fileurl="file://$PROJECT_DIR$/RV_Multiply_View/app.iml" filepath="$PROJECT_DIR$/RV_Multiply_View/app.iml" />
     </modules>
   </component>
