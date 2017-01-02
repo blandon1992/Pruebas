@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Pruebas.iml" filepath="$PROJECT_DIR$/Pruebas.iml" />
       <module fileurl="file://$PROJECT_DIR$/RV_Multiply_View/RV_Multiply_View.iml" filepath="$PROJECT_DIR$/RV_Multiply_View/RV_Multiply_View.iml" />
       <module fileurl="file://$PROJECT_DIR$/RV_Multiply_View/app.iml" filepath="$PROJECT_DIR$/RV_Multiply_View/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learningfirebase/learningfirebase.iml" filepath="$PROJECT_DIR$/learningfirebase/learningfirebase.iml" />
     </modules>
   </component>
 </project>

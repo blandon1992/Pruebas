@@ -10,12 +10,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/RV_Multiply_View" />
+            <option value="$PROJECT_DIR$/learningfirebase" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/RV_Multiply_View" />
+            <option value="$PROJECT_DIR$/learningfirebase" />
           </set>
         </option>
       </GradleProjectSettings>
